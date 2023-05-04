@@ -2,7 +2,7 @@ name: ci
 
 env:
   OWNER_NAME: 'olezai'
-  APP_NAME: 'redis-server'
+  APP_NAME: 'stress'
 
 on:
   push:
